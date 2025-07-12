@@ -12,6 +12,6 @@
 
 
 ## 🔥 Projects
-- [MyGains](https://github.com/yourname/mygains) – Full-stack fitness planner app
+- [MyGains](https://github.com/Darko-Dev1/mygains) – Full-stack fitness planner app
 
 
