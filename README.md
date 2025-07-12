@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# Hi, I'm Beerus 👋
+
+# Hi, I'm Darko 👋
 
 💻 Front-end Developer(still mastering it) | React, Tailwind, JavaScript  
 🎯 Currently building modern web apps and learning backend  
@@ -12,6 +12,6 @@
 
 
 ## 🔥 Projects
-- [My Gains](https://github.com/yourname/mygains) – Full-stack fitness planner app
+- [MyGains](https://github.com/yourname/mygains) – Full-stack fitness planner app
 
 
