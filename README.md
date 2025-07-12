@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Darko-Dev1/Darko-Dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Beerus 👋
 
-Here are some ideas to get you started:
+💻 Front-end Developer(still mastering it) | React, Tailwind, JavaScript  
+🎯 Currently building modern web apps and learning backend  
+🌱 Always exploring new tech and UI design patterns  
+📫 Reach me at: kitanoskidarko08@gmail.com  
+🌐 Portfolio: ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+
+## 🔥 Projects
+- [My Gains](https://github.com/yourname/mygains) – Full-stack fitness planner app
+
+
