@@ -2,8 +2,7 @@
 
 # Hi, I'm Darko 👋
 
-💻 Front-end Developer(still mastering it) | React, Tailwind + SCSS, JavaScript  
-🎯 Currently building modern web apps and learning backend  
+💻 Full-Stack Developer | React, Tailwind, JavaScript, Express  
 🌱 Always exploring new tech and UI design patterns  
 📫 Reach me at: kitanoskidarko08@gmail.com  
 
