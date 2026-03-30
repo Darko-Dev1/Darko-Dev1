@@ -8,7 +8,7 @@
 
 ## 🔥 Projects
 - [MyGains](https://github.com/Darko-Dev1/mygains) – fitness app(full-stack)
-- [InNews]([https://avto-service.vercel.app/](https://news-report-kqwx.vercel.app/)) - Rocket/Science news (React + TS)
+- [InNews](https://news-report-kqwx.vercel.app/) - Rocket/Science news (React + TS)
 - [DogBreeds](https://dog-breeds-opal.vercel.app/) – Blog Page(React)
 - [WeatherApp](https://darko-dev1.github.io/weatherApp/) – weather app based in Germany
 - [DBZdatabase](https://db-database.vercel.app/) - Dragon ball charaters info(React)
